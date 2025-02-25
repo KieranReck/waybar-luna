@@ -11,8 +11,6 @@ on-click animation:
 
 ![on-click animation](./animate.gif)
 
-How it animates:
-
 ## Notes
 - This bash script is entierly local, it doesn't call out to any other source of knowledge to request information
 - There are two options for how you choose to divide up the length of each lunar phase
