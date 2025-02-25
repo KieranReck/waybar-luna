@@ -1,4 +1,4 @@
-# Waybar-Luna Module
+# Waybar-Luna
 A module for your waybar setup that displays the current moonphase, with an added on-click animation.
 
 ![that's no moon....oh wait, it is](./luna-in-waybar.png)
